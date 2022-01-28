@@ -1,0 +1,146 @@
+(ExpressProject "Design11"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[05/11/21]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "..\desktop\design0.olb"
+        (Type "Schematic Library"))
+      (File "..\desktop\pca9306dctr.olb"
+        (Type "Schematic Library"))
+      (File "..\desktop\pca9544argyr.olb"
+        (Type "Schematic Library"))
+      (File "..\desktop\sn74avc1t45dckr.olb"
+        (Type "Schematic Library"))
+      (File "..\desktop\tca6416apwr.olb"
+        (Type "Schematic Library"))
+      (File "..\desktop\erj-2rkf1201x.olb"
+        (Type "Schematic Library"))
+      (File "..\desktop\619.olb"
+        (Type "Schematic Library"))
+      (File "..\desktop\263.olb"
+        (Type "Schematic Library"))
+      (File "..\desktop\618.olb"
+        (Type "Schematic Library"))
+      (File "..\desktop\archive\new folder\tmk105bj104kv-f.olb"
+        (Type "Schematic Library"))
+      (File "..\desktop\archive\new folder\c971.olb"
+        (Type "Schematic Library"))
+      (File "..\desktop\c972.olb"
+        (Type "Schematic Library"))
+      (File "..\desktop\dnp.olb"
+        (Type "Schematic Library"))
+      (File "..\desktop\rtotal.olb"
+        (Type "Schematic Library"))
+      (File "..\desktop\r923.olb"
+        (Type "Schematic Library"))
+      (File "..\desktop\r752.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\design11.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (ERJ-2RKF2000X
+      (FullPartName "ERJ-2RKF2000X.Normal")
+      (LibraryName "C:\USERS\201800510\DESKTOP\R752.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (ERJ-2GE0R00X
+      (FullPartName "ERJ-2GE0R00X.Normal")
+      (LibraryName "C:\USERS\201800510\DESKTOP\RTOTAL.OLB")
+      (DeviceIndex "0"))
+    (ERJ-2RKF4991X
+      (FullPartName "ERJ-2RKF4991X.Normal")
+      (LibraryName "C:\USERS\201800510\DESKTOP\618.OLB")
+      (DeviceIndex "0"))
+    (ERJ-2RKF4990X
+      (FullPartName "ERJ-2RKF4990X.Normal")
+      (LibraryName "C:\USERS\201800510\DESKTOP\R923.OLB")
+      (DeviceIndex "0"))
+    (TSM-102-04-T-SV
+      (FullPartName "TSM-102-04-T-SV.Normal")
+      (LibraryName "C:\USERS\201800510\DESKTOP\DNP.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GRM155R71H102JA01D
+      (FullPartName "GRM155R71H102JA01D.Normal")
+      (LibraryName "C:\USERS\201800510\DESKTOP\C972.OLB")
+      (DeviceIndex "0"))
+    (TMK105BJ104KV-F
+      (FullPartName "TMK105BJ104KV-F.Normal")
+      (LibraryName "C:\USERS\201800510\DESKTOP\ARCHIVE\NEW FOLDER\C971.OLB")
+      (DeviceIndex "0"))
+    (ERJ-2RKF1002X
+      (FullPartName "ERJ-2RKF1002X.Normal")
+      (LibraryName "C:\USERS\201800510\DESKTOP\263.OLB")
+      (DeviceIndex "0"))
+    (ERJ-2RKF1201X
+      (FullPartName "ERJ-2RKF1201X.Normal")
+      (LibraryName "C:\USERS\201800510\DESKTOP\619.OLB")
+      (DeviceIndex "0"))
+    (TCA6416APWR
+      (FullPartName "TCA6416APWR.Normal")
+      (LibraryName "C:\USERS\201800510\DESKTOP\TCA6416APWR.OLB")
+      (DeviceIndex "0"))
+    (SN74AVC1T45DCKR
+      (FullPartName "SN74AVC1T45DCKR.Normal")
+      (LibraryName "C:\USERS\201800510\DESKTOP\SN74AVC1T45DCKR.OLB")
+      (DeviceIndex "0"))
+    (SAMTEC-HTSW-116-14-X-S
+      (FullPartName "SAMTEC_HTSW_116_14_X_SA.Normal")
+      (LibraryName "C:\USERS\201800510\DESKTOP\DESIGN0.OLB")
+      (DeviceIndex "0"))
+    (PCA9544ARGYR
+      (FullPartName "PCA9544ARGYR.Normal")
+      (LibraryName "C:\USERS\201800510\DESKTOP\PCA9544ARGYR.OLB")
+      (DeviceIndex "0"))
+    (PCA9306DCTR
+      (FullPartName "PCA9306DCTR.Normal")
+      (LibraryName "C:\USERS\201800510\DESKTOP\PCA9306DCTR.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "201800510")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library")
+      (Select "Design Resources" "Library"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 734"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 785 24 752")
+        (Scroll "461 1337")
+        (Zoom "136")
+        (Occurrence "/"))
+      (Path "C:\USERS\201800510\DOWNLOADS\DESIGN11.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
